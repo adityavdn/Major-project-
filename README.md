@@ -22,5 +22,5 @@ WHAT ARE THE FEATURES OF THIS CODE
 
 (5)Finally take a screenshot when you stop the program.
 
-Code by Aditya Vardhan
+Code by Aditya Vardhan(team 4)
 
