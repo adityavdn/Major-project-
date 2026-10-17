@@ -1,0 +1,5 @@
+pandas
+pillow
+pynput
+requests
+pywin32; sys_platform == "win32"
